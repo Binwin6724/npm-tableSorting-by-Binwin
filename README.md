@@ -1,4 +1,4 @@
-# NPM-Sorting-Table-by-[Binwin Viju](https://binwinviju.co.in/ "Visit Binwin Viju website")
+# [NPM]-Sorting-Table-by-[Binwin Viju](https://binwinviju.co.in/ "Visit Binwin Viju website")
 - 👋 Hi, I’m @Binwin6724
 - 👀 I’m interested in Developing Application
 - 🌱 I’m currently learning React JS
