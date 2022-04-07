@@ -1,6 +1,6 @@
 {
   "name": "sort-table-with-binwin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This is a NPM node application used to sort table.",
   "main": "sort-table.js",
   "scripts": {
