@@ -14,6 +14,7 @@ In order to get this work there are some requirements that needed to be met.
 * Table heading must be inside thead : ```<thead><tr><th>example header</th></tr></thead>```
 
 ## How things works :-
+* For a Vide tutorial visit [npm package walkthrough](https://youtu.be/s5cUbiavu24 "Click here to get an idea how things work").    
 * We need to run [this](https://www.npmjs.com/package/sort-table-with-binwin "sort-table-with-binwin") command to get the package to your project.
 
     ```npm i sort-table-with-binwin``` 
