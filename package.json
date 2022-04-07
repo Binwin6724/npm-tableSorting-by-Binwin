@@ -1,0 +1,25 @@
+{
+  "name": "sort-table-with-binwin",
+  "version": "1.0.0",
+  "description": "This is a NPM node application used to sort table.",
+  "main": "sort-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binwin6724/npm-tableSorting-by-Binwin.git"
+  },
+  "keywords": [
+    "stb",
+    "sort-table-by-binwin",
+    "sort-table",
+    "st"
+  ],
+  "author": "Binwin Viju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binwin6724/npm-tableSorting-by-Binwin/issues"
+  },
+  "homepage": "https://github.com/Binwin6724/npm-tableSorting-by-Binwin#readme"
+}
