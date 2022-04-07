@@ -21,7 +21,7 @@ In order to get this work there are some requirements that needed to be met.
 
 * After running that we need to source package named **sort-table.js** to your project like 
 
-    ```<script src="./node_modules/sort-table-with-binwin/sort-table.js></script>```
+    ```<script src="./node_modules/sort-table-with-binwin/sort-table.js"></script>```
   this must be added above **```</body>```**  
     
  **Happy Hacking!!**
